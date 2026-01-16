@@ -25,6 +25,11 @@ I believe writing is the best way to consolidate knowledge.
 There are my latest blogs:
 
 <!-- BLOG-POST-LIST:START -->
+- [Sys4AI-Gradient](https://thysrael.github.io/posts/495916e3/)
+- [吃喝玩乐-流浪扬州](https://thysrael.github.io/posts/dbe4a116/)
+- [吃喝玩乐-认识自我](https://thysrael.github.io/posts/51a455b3/)
+- [Sys4AI-GPU](https://thysrael.github.io/posts/848ac0f9/)
+- [计算机系统-指标](https://thysrael.github.io/posts/7e0ffd77/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
