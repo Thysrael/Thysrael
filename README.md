@@ -31,5 +31,3 @@ There are my latest blogs:
 - [Sys4AI-GPU](https://thysrael.github.io/posts/848ac0f9/)
 - [计算机系统-指标](https://thysrael.github.io/posts/7e0ffd77/)
 <!-- BLOG-POST-LIST:END -->
-
----
