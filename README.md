@@ -22,4 +22,9 @@ I believe writing is the best way to consolidate knowledge.
 * Check out my **[Blog](https://thysrael.github.io/)** for technical deep-dives and travel stories.
 * Explore my **[Wiki](https://thysrael.github.io/obsidian-quartz/)**, a living "Digital Garden" where I nurture my daily thoughts and notes.
 
+There are my latest blogs:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
