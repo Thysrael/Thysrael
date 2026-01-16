@@ -10,7 +10,9 @@ I am also a firm believer in the open-source philosophy.
 ### 🧩 Away from the keyboard
 
 I am a big fan of *[Tales of Tarsylia（塔希里亚故事集）](https://en.wikipedia.org/wiki/Tales_of_Tarsylia)*, which my handle **"Thysrael"** comes from.
-I focus on structure and mechanics. I'm a "Straight-build" (素组) enthusiast
+
+I enjoy hands-on hobbies like jigsaw puzzles, blocks, and Gunpla. 
+I stick to 'straight-builds' (素组) since painting isn't really my strong suit.
 
 
 ### ✍️ Writing & Thinking
