@@ -32,4 +32,4 @@ There are my latest blogs:
 - [计算机系统-指标](https://thysrael.github.io/posts/7e0ffd77/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Thysrael's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=thysrael\&show_icons=true\&show=prs_merged_percentage\&rank_icon=github)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Thysrael's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=thysrael\&show_icons=true\&rank_icon=github)](https://github.com/pranesh-2005/github-readme-stats-fast)
