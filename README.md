@@ -22,4 +22,6 @@ I believe writing is the best way to consolidate knowledge.
 * Check out my **[Blog](https://thysrael.github.io/)** for technical deep-dives and travel stories.
 * Explore my **[Wiki](https://thysrael.github.io/obsidian-quartz/)**, a living "Digital Garden" where I nurture my daily thoughts and notes.
 
+[![Thysrael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thysrael)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
