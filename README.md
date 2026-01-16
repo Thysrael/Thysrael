@@ -2,7 +2,7 @@
 
 ### 🖥️ Before the Screen
 
-I am currently a researcher at **SJTU IPADS Lab**. 
+I am currently a student at **SJTU IPADS Lab**. 
 I am fascinated by the "magic" that happens below the abstract layer and dedicated to building better systems software.
 
 I am also a firm believer in the open-source philosophy.
