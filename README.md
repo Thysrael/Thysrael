@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Thysrael 👋
 
-<!--
-**Thysrael/Thysrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Before the Screen
 
-Here are some ideas to get you started:
+I am currently a researcher at **SJTU IPADS Lab**. 
+I am fascinated by the "magic" that happens below the abstract layer and dedicated to building better systems software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also a firm believer in the open-source philosophy.
+
+### 🧩 Away from the keyboard
+
+I am a big fan of *[Tales of Tarsylia（塔希里亚故事集）](https://en.wikipedia.org/wiki/Tales_of_Tarsylia)*, which my handle **"Thysrael"** comes from.
+I focus on structure and mechanics. I'm a "Straight-build" (素组) enthusiast
+
+
+### ✍️ Writing & Thinking
+
+I believe writing is the best way to consolidate knowledge.
+
+* Check out my **[Blog](https://thysrael.github.io/)** for technical deep-dives and travel stories.
+* Explore my **[Wiki](https://thysrael.github.io/obsidian-quartz/)**, a living "Digital Garden" where I nurture my daily thoughts and notes.
+
+---
