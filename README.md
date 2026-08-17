@@ -25,11 +25,11 @@ I believe writing is the best way to consolidate knowledge.
 There are my latest blogs:
 
 <!-- BLOG-POST-LIST:START -->
+- [吃喝玩乐 - 流浪景德镇](https://thysrael.github.io/posts/b3318742/)
 - [English - 拼读](https://thysrael.github.io/posts/2c5a4731/)
 - [信息安全 - TEE](https://thysrael.github.io/posts/9323e869/)
 - [办公工具 - 依赖地狱](https://thysrael.github.io/posts/c55757b3/)
 - [吃喝玩乐 - 流浪苏州](https://thysrael.github.io/posts/29a993d6/)
-- [办公工具 - Server Cli 工具推荐](https://thysrael.github.io/posts/2eb2eeb5/)
 <!-- BLOG-POST-LIST:END -->
 
 [![Thysrael's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=thysrael\&show_icons=true\&rank_icon=github)](https://github.com/pranesh-2005/github-readme-stats-fast)
